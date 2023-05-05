@@ -1,0 +1,13 @@
+D:\Hosted\SpeechRecognizer\SpeechSDK\bin\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.deps.json
+D:\Hosted\SpeechRecognizer\SpeechSDK\bin\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.runtimeconfig.json
+D:\Hosted\SpeechRecognizer\SpeechSDK\bin\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.runtimeconfig.dev.json
+D:\Hosted\SpeechRecognizer\SpeechSDK\bin\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.dll
+D:\Hosted\SpeechRecognizer\SpeechSDK\bin\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.pdb
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.csproj.AssemblyReference.cache
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.AssemblyInfoInputs.cache
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.AssemblyInfo.cs
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.csproj.CoreCompileInputs.cache
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.dll
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.pdb
+D:\Hosted\SpeechRecognizer\SpeechSDK\obj\Debug\netcoreapp2.1\SpeechRecognizerCoreMVC6.genruntimeconfig.cache
