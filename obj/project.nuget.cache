@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZO0mWkFxdwfRDHFAfS3CItfnouFF1BIReoi9TeczBwxDhtFZ3XG0L3wLIsIqnAAkMrbWHRQYp+XKGTFZe7sjAQ==",
+  "dgSpecHash": "7y8X7asj6WGZ7cRXD9WVEVYQVFFDBUD5gWmgJnghwXlXfebLqFQUqffjKXukroFlcfS0S3VQALTKeEXPKi9YPg==",
   "success": true,
-  "projectFilePath": "D:\\Hosted\\SpeechRecognizerCoreMVC6\\SpeechRecognizerCoreMVC6\\SpeechRecognizerCoreMVC6.csproj",
+  "projectFilePath": "D:\\Others\\SpeechRecognizerCoreMVC6\\SpeechRecognizerCoreMVC6\\SpeechRecognizerCoreMVC6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.1.0\\microsoft.cognitiveservices.speech.1.1.0.nupkg.sha512",
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
